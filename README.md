@@ -66,6 +66,7 @@ Normalmente eles seguem o formato `nome="valor"`.
 ```
 ➡️ Os atributos `width` e `height` definem o tamanho da imagem, enquanto `alt` fornece texto alternativo para acessibilidade.
 
+```html
 **Boas práticas:**
 - Use nomes de atributos em minúsculas.
 - Coloque valores entre aspas duplas.
@@ -89,7 +90,6 @@ Normalmente eles seguem o formato `nome="valor"`.
 **Exemplo de estrutura:**
 
 ```html
-<p atributo="valor">Conteúdo</p>
 
 
 ## 📖 Resumo do capítulo
