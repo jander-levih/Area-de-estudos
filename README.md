@@ -82,14 +82,12 @@ Normalmente eles seguem o formato `nome="valor"`.
 
 👉 **Em resumo:** atributo = informação extra dentro da tag.
 
-**Exemplo de estrutura:**
-
-```html
-
 **Boas práticas:**
 - Use nomes de atributos em minúsculas.
 - Coloque valores entre aspas duplas.
 - Evite omitir aspas, especialmente se o valor tiver espaços.
+
+```html
 
 
 ## 📖 Resumo do capítulo
